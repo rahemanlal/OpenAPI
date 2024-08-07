@@ -1,4 +1,4 @@
-###What is Open API in Frappe?
+### What is Open API in Frappe?
 
 The Open API feature in Frappe allows developers to create RESTful APIs for their applications, enabling external systems to interact with the Frappe application programmatically. Here’s a summary of its key aspects:
 
@@ -64,7 +64,7 @@ frappe.api.response("name", "string")
 
 In this example, the API endpoint `/api/method/create_document` creates a new document based on the provided `doc_type` and `doc_data`, and returns the document name as the response.
 
-###another example for creating and using an Open API in Frappe:
+### another example for creating and using an Open API in Frappe:
 
 ### 1. **Create an Open API**
 
